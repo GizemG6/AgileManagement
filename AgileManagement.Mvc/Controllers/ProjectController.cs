@@ -29,7 +29,7 @@ namespace AgileManagement.Mvc.Controllers
         }
 
         /// <summary>
-        /// İlgili Projede ilgili contributor'a erim izni verir.
+        /// İlgili Projede ilgili contributor'a erişim izni verir.
         /// </summary>
         /// <param name="projectId"></param>
         /// <param name="userId"></param>
