@@ -30,7 +30,7 @@ namespace AgileManagement.Application
             var response = new UserLoginResponseDto();
 
             // user role ataması var mı yok mu kontrolü yapılarak, rolü varsa scheme SecureScheme olarak atanır
-            // yoksa NormalScheme olarak burada atanabilir. Bizde rol mantığı şuan için yok.
+            // yoksa NormalScheme olarak burada atanabilir. Bizde rol mantığı şuan için yok
 
 
             if (user == null)
